@@ -2,7 +2,7 @@
 I'm Evangelia, but my friends call me Evelyn. 
 Currently studying computer engineering in University of Patras.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EvelyneKol)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=EvelyneKol&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
 <!--
 **EvelyneKol/EvelyneKol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
