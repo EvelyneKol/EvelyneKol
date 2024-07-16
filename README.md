@@ -2,7 +2,7 @@
 I'm Evangelia, but my friends call me Evelyn. 
 Currently studying computer engineering in University of Patras.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EvelyneKol)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvelyneKol&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **EvelyneKol/EvelyneKol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
