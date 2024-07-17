@@ -2,7 +2,8 @@
 I'm Evangelia, but my friends call me Evelyn. 
 Currently studying Computer Engineering and Informatics at University of Patras.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvelyneKol&layout=compact&langs_count=10&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvelyneKol&langs_count=100&theme=default)
+
 
 
 
